@@ -1,18 +1,22 @@
-# V8 App Template
 
-A modern, production-ready web application template built with Vite, React, and TypeScript. Designed for AI-assisted development with component introspection, layout systems, and excellent developer experience.
+# 📍 LocalServe - Community Service Finder
 
-## 🚀 Features
+**LocalServe** is a hyper-local platform designed to connect individuals with meaningful volunteer opportunities. By bridging the gap between local organizations and residents, we help build stronger, more connected communities.
 
-- **⚡ Lightning Fast**: Vite for instant hot module replacement and optimized builds
-- **🎯 Type Safe**: Full TypeScript coverage across frontend and backend
-- **🎨 Beautiful UI**: shadcn/ui components with Tailwind CSS
-- **🧠 AI-Friendly**: Component introspection for AI development tools
-- **📱 Responsive**: Mobile-first design with modern CSS
-- **🔧 Developer Experience**: Hot reload, linting, formatting, and testing setup
-- **🚀 Production Ready**: SSR support, optimized builds, and deployment-ready
+---
 
-## 🛠️ Tech Stack
+## ✨ Features
+- **Geolocation Matching:** Find service opportunities within a 5-25 mile radius.
+- **Skill-Based Filtering:** Match your expertise (Coding, Teaching, Gardening) with organizations in need.
+- **Impact Tracking:** A personal dashboard to log volunteer hours and view community impact.
+- **Organization Portal:** Seamless management for NGOs to post and moderate events.
+
+## 🛠 Tech Stack
+- **Frontend:** React, Tailwind CSS
+- **Backend:** Node.js, Express
+- **Database:** MongoDB
+- **APIs:** Google Maps Platform (Maps & Places)
+- **Auth:** Firebase Authentication
 
 ### Frontend
 
